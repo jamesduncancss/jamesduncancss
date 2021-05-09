@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesduncancss
-- 👀 I’m interested in HTML, CSS and Javascript (React!
+- 👀 I’m interested in HTML, CSS and Javascript (React! Node.js + related libraries + vanilla JS as mch as I can learn!)
 - 🌱 I’m currently learning more about JS! Vue.js using the Ionic Vue library
 
 <!---
